@@ -1,0 +1,17 @@
+body{
+background: lightblue;
+text-align: center;
+background:url(background.jpg);
+}
+#player_1_name{
+text-align: left;
+}
+#player_2_name{
+text-align: left;
+}
+#player_1_score{
+text-align: left;
+}
+#player_2_score{
+text-align: left;
+}
